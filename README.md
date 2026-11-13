@@ -6,9 +6,9 @@
 
 **Software Engineer · Erfurt · Development Operations & Backend**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dein-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://deine-website.dev)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deine@mail.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dein-profil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deine-website.dev)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine@mail.de)
 
 </div>
 
@@ -79,35 +79,3 @@ I care just as much about readable, relieable and maintainable software as about
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-
-## Ausgewählte Projekte
-
-| Projekt | Beschreibung | Stack | Demo |
-|---------|-------------|-------|------|
-| **[Projektname]** | Kurze, prägnante Beschreibung in einem Satz | TS · React · Prisma | [Live ↗](https://link) |
-| **[Projektname]** | Was es tut und warum es nützlich ist | Go · PostgreSQL | [Repo ↗](https://github.com/...) |
-| **[Projektname]** | Dein Vorzeigeprojekt mit dem meisten Impact | Python · FastAPI | [Live ↗](https://link) |
-
-→ Alle Projekte: [github.com/dein-username?tab=repositories](https://github.com/dein-username)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-<div align="center">
-
-*„[Ein kurzes Zitat oder Motto, das zu dir passt]"*
-
-**Lass uns etwas bauen → [deine@mail.de](mailto:deine@mail.de)**
-
-</div>
