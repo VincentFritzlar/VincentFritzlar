@@ -82,8 +82,6 @@ I care just as much about readable, relieable and maintainable software as about
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 ![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
----
-
 ## GitHub Stats
 
 <div align="center">
