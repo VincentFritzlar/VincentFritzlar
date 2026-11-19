@@ -79,3 +79,13 @@ I care just as much about readable, relieable and maintainable software as about
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincentFritzlar&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentFritzlar&layout=compact&hide_border=true)
+
+</div>
