@@ -84,15 +84,6 @@ I care just as much about readable, relieable and maintainable software as about
 
 ---
 
-## A few things I find interesting
-
-- **AI-augmented workflows** — using Claude Code, MCP servers, and local LLMs to accelerate development without losing control over what gets built
-- **Observability** — structured logging, Grafana dashboards, and understanding systems *after* they're deployed
-- **IoT & edge** — MQTT pipelines, time-series data with InfluxDB, running containers on small hardware
-- **Code quality as a habit** — static analysis, linting, and making the next developer's life easier (usually that developer is me)
-
----
-
 ## GitHub Stats
 
 <div align="center">
