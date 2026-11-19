@@ -1,5 +1,3 @@
-<!-- Profil-README für github.com/[dein-username] -->
-
 <div align="center">
 
 # Hey, nice to meet you. I am Vincent 👋
@@ -86,13 +84,31 @@ I care just as much about readable, relieable and maintainable software as about
 
 ---
 
+## A few things I find interesting
+
+- **AI-augmented workflows** — using Claude Code, MCP servers, and local LLMs to accelerate development without losing control over what gets built
+- **Observability** — structured logging, Grafana dashboards, and understanding systems *after* they're deployed
+- **IoT & edge** — MQTT pipelines, time-series data with InfluxDB, running containers on small hardware
+- **Code quality as a habit** — static analysis, linting, and making the next developer's life easier (usually that developer is me)
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VincentFritzlar&rank_icon=github&show_icons=true&include_all_commits=true&theme=city_lights)](https://github.com/VincentFritzlar)
+<table><tr>
+<td>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VincentFritzlar&rank_icon=github&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true)](https://github.com/VincentFritzlar)
+
+</td>
+<td>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentFritzlar&layout=compact&hide_border=true&theme=city_lights)
+
+</td>
+</tr></table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VincentFritzlar&hide_border=true&theme=city_lights)
 
