@@ -82,10 +82,6 @@ I care just as much about readable, relieable and maintainable software as about
 
 ## GitHub Stats
 
-<div align="center">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VincentFritzlar&rank_icon=github&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=VincentFritzlar&rank_icon=github&show_icons=true&include_all_commits=true&theme=city_lights)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincentFritzlar&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentFritzlar&layout=compact&hide_border=true)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=VincentFritzlar&hide_border=true)
