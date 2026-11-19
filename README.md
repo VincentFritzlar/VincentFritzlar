@@ -82,23 +82,27 @@ I care just as much about readable, relieable and maintainable software as about
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 ![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table><tr>
-<td>
+<table border="0"><tr>
+<td align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VincentFritzlar&rank_icon=github&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true)](https://github.com/VincentFritzlar)
 
 </td>
-<td>
+<td align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentFritzlar&layout=compact&hide_border=true&theme=city_lights)
 
 </td>
-</tr></table>
+</tr><tr>
+<td align="center" colspan="2">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VincentFritzlar&hide_border=true&theme=city_lights)
+
+</td>
+</tr></table>
 
 </div>
